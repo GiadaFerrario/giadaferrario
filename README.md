@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giadaferrario&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+#### I'm Giada and here below you can find my GitHub stats 📊
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giadaferrario&langs_count=8&layout=compact)
 
 
 <!--
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-#### I'm Giada and here below you can find my GitHub stats 📊
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giadaferrario&layout=compact)
 
