@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Giada and here below you can find my GitHub stats 📊
+#### I'm Giada and here below you can find my GitHub stats 📊
 <!--
 **GiadaFerrario/giadaferrario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
