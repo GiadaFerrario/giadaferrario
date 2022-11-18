@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### I'm Giada and here below you can find some GitHub stats 📊
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giadaferrario&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
@@ -17,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-#### I'm Giada and here below you can find my GitHub stats 📊
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giadaferrario&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
