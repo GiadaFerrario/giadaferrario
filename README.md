@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 #### I'm Giada and here below you can find my GitHub stats 📊
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giadaferrario&langs_count=8&layout=compact)
 
 
 <!--
