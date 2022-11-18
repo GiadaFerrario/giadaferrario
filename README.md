@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+#### I'm Giada and here below you can find my GitHub stats 📊
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giadaferrario&layout=compact)]
 
 
 
@@ -18,6 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-#### I'm Giada and here below you can find my GitHub stats 📊
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giadaferrario&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
