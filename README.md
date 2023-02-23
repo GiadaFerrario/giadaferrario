@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there 👋🏻
 
-### I'm Giada and here below you can find some GitHub stats 📊
+#### I'm Giada and I'm a Full Stack Developer 👩🏻‍💻
+
+### Here some GitHub stats 📊
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giadaferrario&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
