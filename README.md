@@ -1,6 +1,6 @@
 ### Hi there 👋🏻
 
-#### I'm Giada and I'm a Full Stack Developer 👩🏻‍💻
+<!--#### I'm Giada and I'm a Full Stack Developer 👩🏻‍💻-->
 
 ### Here some GitHub stats 📊
 
