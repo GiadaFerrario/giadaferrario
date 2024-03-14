@@ -1,13 +1,14 @@
 ### Hi there 👋🏻
+I am Giada, I am a Full Stack Developer 👨🏻‍💻 and a MSE student in Computer Science 📚
+- 🔭 I’m currently working on my master thesis
+- 🌱 I’m currently improving my knowledge working with valued people
+- 📫 Reach me on [Linkedin]([https://www.linkedin.com/in/giada-ferrario/])
 
-<!--#### I'm Giada and I'm a Full Stack Developer 👩🏻‍💻-->
+### 🔥 My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=GiadaFerrario)](https://git.io/streak-stats)
+<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiadaFerrario&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)--->
 
-### Here some GitHub stats 📊
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giadaferrario&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=giadaferrario&theme=default)](https://git.io/streak-stats)
-
+<!---
 **GiadaFerrario/giadaferrario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -20,8 +21,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giadaferrario&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
