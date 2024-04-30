@@ -2,7 +2,7 @@
 I am Giada, I am a Full Stack Developer 👨🏻‍💻 and a MSE student in Computer Science 📚
 - 🔭 I’m currently working on my master thesis
 - 🌱 I’m currently improving my knowledge working with valued people
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/giada-ferrario)
+- 📫 Reach me on [Linkedin](https://www.linkedin.com/in/giada-ferrario)
 
 ### 🔥 My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=GiadaFerrario)](https://git.io/streak-stats)
