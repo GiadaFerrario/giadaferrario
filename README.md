@@ -1,7 +1,7 @@
 ### Hi there 👋🏻
 I am Giada, I am a Full Stack Developer 👨🏻‍💻 with a MSE degree in Computer Science 📚
-- 🔭 I’m currently working as Full Stack Dev
-- 🚀🌱 I’m currently improving my knowledge working with valued people and exploring diverse fields
+- 🔭 I’m currently working as Full Stack Software Engineer
+- 🚀🌱 I’m currently improving my knowledge exploring diverse fields
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/giada-ferrario)
 
 
