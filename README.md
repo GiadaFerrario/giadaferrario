@@ -1,8 +1,20 @@
 ### Hi there 👋🏻
-I am Giada, I am a Full Stack Developer 👨🏻‍💻 with a MSE degree in Computer Science 📚
-- 🔭 I’m currently working as Full Stack Software Engineer
-- 🚀🌱 I’m currently improving my knowledge exploring diverse fields
-- 📫 Reach me on [Linkedin](https://www.linkedin.com/in/giada-ferrario)
+I'm a Software Engineer focused on full-stack web development, backend systems and scalable software solutions.
+
+I enjoy building applications end-to-end, from API and backend architecture to frontend development, data management and deployment.
+
+#### What I work with
+**Frontend**: React, TypeScript, JavaScript\
+**Backend**: Java/Spring Boot, Python/FastAPI, Node.js, C#/.NET\
+**APIs & Architecture**: REST, GraphQL, Microservices, Modular Architecture\
+**Databases**: PostgreSQL, MongoDB, SQL/NoSQL\
+**DevOps**: Docker, Kubernetes, CI/CD, Cloud\
+**Software Engineering**: Testing, TDD, Clean Code, Design Patterns, Agile/Scrum\
+
+#### Currently exploring
+I'm interested in turning real-world problems into software solutions and continuously expanding my experience across the full stack.
+
+📫 [Linkedin](https://www.linkedin.com/in/giada-ferrario)
 
 
 ### 🔥 My Stats:
